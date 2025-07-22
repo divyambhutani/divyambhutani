@@ -1,7 +1,3 @@
-
-markdown
-Copy
-Edit
 <h1 align="center">Hi 👋, I'm Divyam Bhutani</h1>
 <h3 align="center">Backend-Focused Software Engineer | Scalable Systems | Fintech</h3>
 
