@@ -1,16 +1,104 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Divyam Bhutani</h1>
+<h3 align="center">Backend-Focused Software Engineer | Scalable Systems | Fintech</h3>
 
-<!--
-**divyambhutani/divyambhutani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🤝 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:divyambhutani40@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyam-bhutani-4b992b16b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/divyambhutani40/profile">
+    <img src="https://img.shields.io/badge/GFG-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/divyambhutani/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+Backend-focused Software Engineer with 3+ years of experience in building scalable, resilient systems. I enjoy designing robust APIs, optimizing performance, and architecting async services. Strong believer in clean, modular code.
+
+---
+
+### 💳 Domain Knowledge
+
+ Experienced in the **Fintech domain** with strong expertise in **Card-Not-Present (CNP)** e-payments 
+ 
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
+</p>
+
+**Tools & Infra**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="50" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" />
+</p>
+
+
+---
+
+### 🔭 Currently Working On
+
+- Designing & scaling internal orchestration systems at Juspay  
+- Writing alert-driven infra workflows using Prometheus + Grafana  
+- Revisiting Python, Go, Haskell, and diving deeper into infra tools
+
+---
+
+### ✍️ Blog
+
+- 🧠 [What is File System Module in Node.js?](https://www.geeksforgeeks.org/what-is-file-system-module-in-node-js/)  
+  A beginner-friendly walkthrough of file handling in Node.js.
+
+---
+
+### 🎓 Certificates & Courses
+
+- 📜 [Convosight Internship Certificate](https://drive.google.com/file/d/1TgkZVZjmzaDBwiBkNnQLXz7x2c4I6MnN/view?usp=sharing)  
+- 📜 [The Sparks Foundation - GRIP Banking App](https://drive.google.com/file/d/13THfuz0_I-5HNPzsHGSYScBBq5o1pz7N/view?usp=sharing)  
+- 📚 [Operating Systems - Coursera](https://coursera.org/share/526efef0124a1808678df59e86c596d5)  
+- 📚 [Computer Networking - Coursera](https://coursera.org/share/9c7bb1e5544f28f69ecc37001c83ddeb)
+
+---
+
+### 🙋‍♂️ Beyond Code
+
+- 🧉 I enjoy reading about self-improvement  
+- 🕺 I'm convinced I dance better after 2 whiskeys  
+- 🤓 Lifelong learner who thrives on meaningful conversations and side quests
+
+---
+
+### 🤝 Let's Collaborate
+
+- 💼 Open to backend consulting, side gigs, and freelance opportunities  
+- 🧑‍🏫 Happy to mentor juniors in Python, Go, or systems design  
+- 🎯 Let's build cool things and debug weird ones together
+
+---
+
+> "Scalability, reliability, and clean architecture are at the heart of every system I build."
