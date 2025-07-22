@@ -6,16 +6,16 @@
 ### 🤝 Connect with me
 
 <p align="center">
-  <a href="mailto:divyambhutani40@gmail.com">
+  <a href="mailto:divyambhutani40@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/divyam-bhutani-4b992b16b/">
+  <a href="https://www.linkedin.com/in/divyam-bhutani-4b992b16b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/divyambhutani40/profile">
+  <a href="https://auth.geeksforgeeks.org/user/divyambhutani40/profile" target="_blank">
     <img src="https://img.shields.io/badge/GFG-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/divyambhutani/">
+  <a href="https://leetcode.com/divyambhutani/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
